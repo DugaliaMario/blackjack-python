@@ -1,3 +1,25 @@
+# Blackjack
+
+A console-based Blackjack game developed in Python.
+
+## Features
+
+- Player vs dealer gameplay
+- Betting system
+- Player balance
+- Card deck and shuffling
+- Blackjack detection
+- Hit and Stand options
+- Replay functionality
+
+## Technologies Used
+
+- Python
+- Functions
+- Lists
+- Modules
+- Object-Oriented Programming
+
 ## How to Run
 
 ### Requirements
